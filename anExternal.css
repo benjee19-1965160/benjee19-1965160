@@ -1,0 +1,73 @@
+#small-text {
+    font-size: 12px;
+}
+#larger-text {
+    font-size: 18px;
+}
+
+.small-margin {
+    margin: 5px;
+}
+
+.resized-pictures-small {
+    width: 50px;
+    height: 50px;
+}
+
+.resized-picture-larger {
+    width: 200px;
+    height: 200px;
+}
+
+#opacity {
+    opacity: 50%;
+}
+
+#text-over-image-div {
+    position:absolute; 
+    top:50%; 
+    left:50%; 
+    transform: translate(-50%, -50%); 
+    text-align: center;
+}
+
+#text-in-image {
+    color:white; 
+    font-size: 18px;
+}
+
+.relative {
+    position:relative
+}
+
+#div-outside-centered-image-text {
+    width: 960px;
+}
+
+#div-outside-margined-image {
+    background-color: aqua;
+    width: 240px;
+    height: 240px;
+}
+
+#margined-image {
+    margin: 20px;
+}
+
+.border-dotted {
+    border-style: dotted;
+}
+
+#floating-image {
+    margin: 10px;
+    float: right;
+}
+
+#round-image {
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.larger-margin-top {
+    margin-top: 100px;
+}
