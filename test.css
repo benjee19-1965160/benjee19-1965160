@@ -6,6 +6,8 @@ p{
     color: white;
     font-weight: bold;
     font-family: "Arial";
+    /* Another cool tag!!! */
+    line-height: 20px;
 }
 
 h3{
@@ -34,8 +36,9 @@ ul{
     margin-right: auto;
     margin-bottom: 10px;
     text-align: center;
-    /* border-color: white;
-    border-width: 16px; */
+    /* Look at some new cool tags */
+    border-color: white;
+    border-width: 16px;
 }
 
 #Header h1{
@@ -78,6 +81,8 @@ ul{
 }
 
 #Footer{
+    /* Look another cool tag we didn't go over in class */
+    height: 300px;
     background-color: #8E41D5;
     border:solid 8px black;
     text-align: center;
